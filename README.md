@@ -1,4 +1,4 @@
-# Model Quantization and Compression
+# Quantization and Model Compression
 
 ## Overview
 

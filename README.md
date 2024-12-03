@@ -74,9 +74,7 @@ This script will:
 
 ## Model Checkpoints
 
-Due to file size limitations, the quantized models are available at the following link:
-
-- [Models](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/gaurav_bhole_research_iiit_ac_in/EgVS_bhEMYxBjOduHIYR7BQBzLUSLlCPCOn-XncuYXblvg?e=sgZ34U)
+Due to file size limitations, the quantized models are available at the following link: [Models](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/gaurav_bhole_research_iiit_ac_in/EgVS_bhEMYxBjOduHIYR7BQBzLUSLlCPCOn-XncuYXblvg?e=sgZ34U)
 
 ## Results
 

@@ -11,13 +11,13 @@ This repository contains the implementation of various model quantization techni
 ├── README.md
 ├── Report.pdf 
 ├── Assignment4.pdf                      # Description of the Task                           
-├── src/                     
+├── src                   
 │    ├── Part1.py                        # Custom quantization implementation
 │    └── Part2.py                        # Bitsandbytes integration
-├── results/                     
+├── results                     
 │    ├── quantization_comparison.png     # Results and visualizations
 │    └── bitsandbytes_comparison.png     # Results and visualizations
-└── models/                              # Saved quantized models (One drive link)
+└── models                               # Saved quantized models (One drive link)
     ├── quantized_models
     │   ├── original/
     │   ├── selective_8bit/

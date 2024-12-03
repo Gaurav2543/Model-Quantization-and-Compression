@@ -6,8 +6,7 @@ This repository contains the implementation of various model quantization techni
 
 ## File Structure
 
-```
-.                            
+```                         
 ├── README.md
 ├── Report.pdf 
 ├── Assignment4.pdf                      # Description of the Task                           

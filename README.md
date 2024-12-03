@@ -8,12 +8,14 @@ This repository contains the implementation of various model quantization techni
 
 ```
 .
-├── Part1.py                    # Custom quantization implementation
-├── Part2.py                    # Bitsandbytes integration
-├── quantization_comparison.png        # Results and visualizations
-├── bitsandbytes_comparison.png        # Results and visualizations
 ├── README.md
-├── models/                     # Saved quantized models (One drive link)
+├── src/                     
+│    ├── Part1.py                    # Custom quantization implementation
+│    └── Part2.py                    # Bitsandbytes integration
+├── results/                     
+│    ├── quantization_comparison.png        # Results and visualizations
+│    └──  bitsandbytes_comparison.png        # Results and visualizations
+└── models/                     # Saved quantized models (One drive link)
     ├── quantized_models
     │   ├── original/
     │   ├── selective_8bit/
@@ -43,7 +45,7 @@ pip install torch transformers datasets bitsandbytes accelerate tqdm seaborn mat
 ### Part 1: Custom Quantization
 
 ```bash
-python Part1.py
+python src/Part1.py
 ```
 
 This script will:
@@ -57,7 +59,7 @@ This script will:
 ### Part 2: Bitsandbytes Integration
 
 ```bash
-python Part2.py
+python src/Part2.py
 ```
 
 This script will:
@@ -85,7 +87,7 @@ The scripts generate:
 
 Results are saved in:
 
-- Visualization plots: `bitsandbytes_comparison.png` and `quantization_comparison.png`
+- Visualization plots: `results/bitsandbytes_comparison.png` and `results/quantization_comparison.png`
 
 ## Notes
 

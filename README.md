@@ -7,7 +7,7 @@ This repository contains the implementation of various model quantization techni
 ## File Structure
 
 ```
-Quantization-and-Model-Compression
+Quantization-and-Model-Compression/
 │
 ├── README.md
 ├── Report.pdf 
